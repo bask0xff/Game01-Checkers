@@ -57,6 +57,6 @@ dependencies {
     implementation libs.gson
 
     // YAGEClib
-    implementation 'com.github.bask0xff:YAGEC:-SNAPSHOT'
+    implementation libs.yagec
 
 }
